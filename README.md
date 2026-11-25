@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi carta de presentación</title>
-  <style>
-    body {
-      max-width: 700px;
-      margin: 60px auto;
-      padding: 0 20px;
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      color: #333;
-      background: #faf9f6;
-    }
-    h1 { color: #526b5d; }
-    h2 { color: #8b725d; font-size: 1.2rem; }
-    .presentacion {
-      background: white;
-      padding: 28px;
-      border-radius: 12px;
-      border: 1px solid #e8e3dc;
-    }
-    footer {
-      margin-top: 30px;
-      color: #777;
-      font-size: 0.9rem;
-    }
-  </style>
-</head>
+
 <body>
   <main class="presentacion">
     <h1>¡Hola! Bienvenidos a mi espacio</h1>
@@ -56,5 +26,5 @@
     © Mi presentación personal
   </footer>
 </body>
-</html>
+
 
